@@ -2,7 +2,7 @@ import React from 'react'
 
 const Backend = () => {
   return (
-    <div className="skills__content">
+    <div className="skills__content b">
         <h3 className="skills__title">Backend</h3>
         
         <div className="skills__box">
@@ -44,7 +44,7 @@ const Backend = () => {
                 <i class='bx bx-check-circle'></i>
 
                 <div>
-                    <h3  className="skills__name"> Posgres</h3>
+                    <h3  className="skills__name"> Postgre</h3>
                     <span className="skills__level"> Básico</span>
                 </div>
                 </div>

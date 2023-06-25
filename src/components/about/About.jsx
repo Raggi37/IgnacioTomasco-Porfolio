@@ -22,8 +22,8 @@ const About = () => {
                 <Info/>
 
                 <p className="about__description">
-                Frontend developer, I create web pages with UI / UX user interface, 
-                I have years of experience and many clients are happy with the projects carried out.
+                Desarrollador Fullstack junior con conocimientos en HTML, CSS, Javascript, React y Node.js. 
+Apasionado por la programación y el desarrollo web, busco oportunidades para crecer y aprender de forma dinámica y desafiante.
                 </p>
 
                 <a download="" href={cv} className="button button--flex">Descargar CV
